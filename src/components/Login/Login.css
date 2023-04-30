@@ -1,0 +1,67 @@
+ .form-container {
+     width: 500px;
+     height: 650px;
+     border: 1px solid #95a0a7;
+     border-radius: 8px;
+     margin: 30px auto;
+     padding-left: 42px;
+
+ }
+
+ .form-title {
+     font-family: 'poppins';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 35px;
+     line-height: 42px;
+     letter-spacing: 0.0025em;
+     color: #2a414f;
+     text-align: center;
+ }
+
+ .form-control {
+     margin-bottom: 20px;
+ }
+
+ .form-control label {
+     display: block;
+     font-size: 17px;
+     line-height: 20px;
+     letter-spacing: 0.0015em;
+     color: #2a414f;
+     margin-bottom: 10px;
+ }
+
+ .form-control input {
+     width: 415px;
+     height: 55px;
+     border: 1px solid #95a0a7;
+     border-radius: 5px;
+     font-size: 18px;
+     padding-left: 15px;
+ }
+
+ .login-btn {
+     margin-top: 20px;
+     font-weight: 700;
+     font-size: 15px;
+     width: 435px;
+     height: 55px;
+     border-radius: 10px;
+     border: 1px solid #95a0a7;
+ }
+
+ .login-btn:hover {
+     background-color: orange;
+     border-style: none;
+     cursor: pointer;
+     color: azure;
+     border-radius: 10px;
+ }
+
+ .form-container p{
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+    
+}

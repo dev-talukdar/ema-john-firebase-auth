@@ -1,0 +1,29 @@
+.redirect{
+    color: rgb(232, 142, 7);
+    margin-bottom: 30px;
+}
+
+.form-containers p{
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+    
+}
+
+.form-containers {
+    width: 500px;
+    height: 850px;
+    border: 1px solid #95a0a7;
+    border-radius: 8px;
+    margin: 30px auto;
+    padding-left: 42px;
+
+}
+
+.or{
+    display: flex;
+}
+
+.error-msg{
+    color: red;
+}
